@@ -53,4 +53,8 @@ TypeError: lotsOfParameters2() got multiple values for argument 'a'
 
 =================================================================================================================================
 
+random.randint(start, end) returns a distribution that is inclusive of both the given start and end points.
+
+=================================================================================================================================
+
 
