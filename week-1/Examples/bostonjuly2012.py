@@ -28,7 +28,7 @@ def read_data(fd=load_file()):
 
 
 def calculate_diff(high=HIGH, low=LOW):
-    diff_temps = [int(h) - int(l) for h,l in zip(high, low)]
+    diff_temps = [int(h) - int(l) for h, l in zip(high, low)]
     return diff_temps
 
 
